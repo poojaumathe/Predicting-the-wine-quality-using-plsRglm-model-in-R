@@ -139,8 +139,6 @@ Plotting variable importance according to the model 3
 
 ![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/22)
 
-![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/23)
-
 
 
 d)Testing: 
