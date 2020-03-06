@@ -1,4 +1,4 @@
-Problem Statement: Using only partial least squares regression for generalized linear models (the plsRglm package in R) using caret package, build an ensemble model to predict the quality score given to each wine from the Vinho Verde region of Portugal.
+Problem Statement: Using partial least squares regression for generalized linear models (the plsRglm package in R) using caret package, build an ensemble model to predict the quality score given to each wine from the Vinho Verde region of Portugal.
 
 Project Objective: Predict the quality of Wine
 
@@ -9,4 +9,5 @@ The data consists of 11 features which are: fixed acidity, volatile acidity, cit
 Programming Language:  R
 
 Let’s get started….
+
 
