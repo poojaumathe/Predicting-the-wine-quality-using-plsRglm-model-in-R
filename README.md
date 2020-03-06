@@ -127,11 +127,11 @@ Model1: Taking only top 5 features
 
 Model2: Taking all features with preprocessing
 
-![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/20)
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/21)
 
 Model3: Taking all features without preprocessing
 
-![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/21)
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/20)
 
 As we can see from the above results, model_plsRglm3 has the best performance. So, we will consider model_plsRglm3 as our main model.
 
