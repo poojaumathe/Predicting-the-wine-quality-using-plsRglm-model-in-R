@@ -73,17 +73,30 @@ The height of each bar shows how many falls into each range. Plotting histogram 
 ![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/13)
 ![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/14)
 
+f)	Outliers:
+
+Outlier is a data point that differs significantly from other observations.
+Let’s check the outliers in our data…
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/15)
+
+There are so many outliers in each variable which is not good for the model performance. We need to remove them.
 
 
+g)	Skewness: 
+
+In probability theory and statistics, skewness is a measure of the asymmetry of the probability distribution of a real-valued random variable about its mean. The skewness value can be positive or negative, or undefined.
 
 
+h)	Data Transformation / Preparation:
+
+From the above results as we know that our data is bit skewed and there are outliers so here, we are using Box cox transformation method to transform the data.
 
 
+Creating a function to remove outliers and after removing the outliers the boxplot for all variable as shown below.
 
 
-
-
-
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/16)
 
 
 
