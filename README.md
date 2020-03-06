@@ -10,3 +10,59 @@ Programming Language:  R
 
 Let’s get started….
 
+Step-1:  Installation of all required packages and libraries
+
+In this Project, I am using Caret package. The caret package (short for Classification and Regression Training) contains functions to streamline the model training process for complex regression and classification problems.
+
+
+Step-2:  Importing or Loading the data
+
+I have used rbind function to concatenate the dataset.
+
+
+Step-3:  Exploratory Data Analysis and Data Preprocessing
+In statistics, exploratory data analysis is an approach to analyzing data sets to summarize their main characteristics, often with visual methods.
+
+
+a)	Understand the data: 
+By getting structure and summary of data is the way to understand the data.
+
+b)	Missing Values: 
+Checking missing values if any using is.na function in R. There are no missing values in dataset which is good for our model performance.
+
+c)	Exploring the attributes:
+Below plots show the quality of wine and level of alcohol based on wine color
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/1)
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/2)
+
+Below plots show the density, level of volatile acidity, chlorides, and density of wine based on color.
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/3)
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/4)
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/5)
+
+In the below plot we can say that there are same amount of red and white wines with quality '3', '4' and '9', more red wines with quality '5' and more white wines with quality "6", "7" and "8".
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
