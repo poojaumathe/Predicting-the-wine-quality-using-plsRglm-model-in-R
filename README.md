@@ -10,4 +10,4 @@ Programming Language:  R
 
 Let’s get started….
 
-
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/1)
