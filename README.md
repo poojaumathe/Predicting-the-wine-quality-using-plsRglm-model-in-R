@@ -98,6 +98,29 @@ Creating a function to remove outliers and after removing the outliers the boxpl
 
 ![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/16)
 
+Let’s find highly correlated variables to the quality after transforming the data,
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/17)
+
+
+Step-4:  Modeling, Training and Testing 
+
+
+a)	Data Splitting:
+
+Splitting data using Caret package 80% training set and 20% validation set.
+
+
+b)	Feature selection:
+
+Using recursive feature selection from caret package we got 5 top features which are highly correlated to the quality of wine.
+
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/18)
+
+
+
+
 
 
 
