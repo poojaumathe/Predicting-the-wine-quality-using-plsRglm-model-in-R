@@ -54,6 +54,19 @@ Finding correlation is an important task in machine learning projects as we need
 ![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/7)
 ![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/8)
 
+So, the above correlation graphs show the correlation between all attributes where we can see alcohol is more correlated to the quality of wine. First correlation graph is without melting(reshaping) the values and other has reshaped values.
+
+The below graphs show the density vs alcohol correlation by wine color and quality.
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/9)
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/10)
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/11)
+
+
+
+
+
 
 
 
