@@ -44,7 +44,17 @@ Below plots show the density, level of volatile acidity, chlorides, and density 
 
 In the below plot we can say that there are same amount of red and white wines with quality '3', '4' and '9', more red wines with quality '5' and more white wines with quality "6", "7" and "8".
 
-![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/5)
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/6)
+
+
+d)	Finding Correlation between the attributes with quality:
+
+Finding correlation is an important task in machine learning projects as we need to know about the correlation between each attribute with outcome attribute.
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/7)
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/8)
+
+
 
 
 
