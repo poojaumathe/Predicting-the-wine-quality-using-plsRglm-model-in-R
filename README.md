@@ -63,6 +63,20 @@ The below graphs show the density vs alcohol correlation by wine color and quali
 
 ![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/11)
 
+As we can observe from the graphs that Wine with high alcohol percentage has quality level 7, wine with less alcohol percentage is quality level 5.
+
+
+e)	Frequency distribution: 
+The height of each bar shows how many falls into each range. Plotting histogram using hist() function , we can visualize the frequency distribution of each attribute.   
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/12)
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/13)
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/14)
+
+
+
+
+
 
 
 
