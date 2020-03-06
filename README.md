@@ -119,9 +119,32 @@ Using recursive feature selection from caret package we got 5 top features which
 ![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/18)
 
 
+c)	Model Building and Training: 
+
+Model1: Taking only top 5 features
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/19)
+
+Model2: Taking all features with preprocessing
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/20)
+
+Model3: Taking all features without preprocessing
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/21)
+
+As we can see from the above results, model_plsRglm3 has the best performance. So, we will consider model_plsRglm3 as our main model.
+
+Plotting variable importance according to the model 3
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/22)
 
 
+d)Testing: 
 
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/23)
+
+![alt text](https://github.com/poojaumathe/Predicting-the-wine-quality-using-plsRglm-model-in-R/blob/master/Plots/24)
 
 
 
